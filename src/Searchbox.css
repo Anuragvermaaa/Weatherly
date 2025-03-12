@@ -1,0 +1,31 @@
+ .SearchBox{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    margin-top: 30px;
+ }
+
+ #subject{
+    font-size: 1.8rem;
+   font-weight: 200;
+    color:  rgb(20, 220, 160);
+ }
+
+ #city{
+    width: 12.5rem;
+    height: 2px;
+    border: 3px solid rgb(20, 220, 160);
+    border-radius: 6px;
+    background-color: #cdb0b0;
+    margin-top: 0.8rem;
+}
+
+
+.search-btn{
+    background-color: #6e6eaa;
+    color: black;
+    margin-left:10.5rem ;
+}
+
